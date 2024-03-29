@@ -1,5 +1,13 @@
 # astro
 
+## 4.5.13
+
+### Patch Changes
+
+- [#10605](https://github.com/withastro/astro/pull/10605) [`a16a829f4e25ad5c9a1b4557ec089fc8ab53320f`](https://github.com/withastro/astro/commit/a16a829f4e25ad5c9a1b4557ec089fc8ab53320f) Thanks [@martrapp](https://github.com/martrapp)! - Fixes an issue with outdated page titles in browser history when using text fragments in view transition navigation.
+
+- [#10584](https://github.com/withastro/astro/pull/10584) [`e648c5575a8774af739231cfa9fc27a32086aa5f`](https://github.com/withastro/astro/commit/e648c5575a8774af739231cfa9fc27a32086aa5f) Thanks [@duanwilliam](https://github.com/duanwilliam)! - Fixes a bug where JSX runtime would error on components with nullish prop values in certain conditions.
+
 ## 4.5.12
 
 ### Patch Changes
