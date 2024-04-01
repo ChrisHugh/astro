@@ -253,3 +253,7 @@ h5 {
 		gap: 12rem;
 	}
 }
+
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
